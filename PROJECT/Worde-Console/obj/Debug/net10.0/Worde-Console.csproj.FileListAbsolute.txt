@@ -1,0 +1,15 @@
+C:\Users\shomy\Code\COGNIZANT\PROJECT\Worde-Console\bin\Debug\net10.0\Worde-Console.exe
+C:\Users\shomy\Code\COGNIZANT\PROJECT\Worde-Console\bin\Debug\net10.0\Worde-Console.deps.json
+C:\Users\shomy\Code\COGNIZANT\PROJECT\Worde-Console\bin\Debug\net10.0\Worde-Console.runtimeconfig.json
+C:\Users\shomy\Code\COGNIZANT\PROJECT\Worde-Console\bin\Debug\net10.0\Worde-Console.dll
+C:\Users\shomy\Code\COGNIZANT\PROJECT\Worde-Console\bin\Debug\net10.0\Worde-Console.pdb
+C:\Users\shomy\Code\COGNIZANT\PROJECT\Worde-Console\obj\Debug\net10.0\Worde-Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shomy\Code\COGNIZANT\PROJECT\Worde-Console\obj\Debug\net10.0\Worde-Console.AssemblyInfoInputs.cache
+C:\Users\shomy\Code\COGNIZANT\PROJECT\Worde-Console\obj\Debug\net10.0\Worde-Console.AssemblyInfo.cs
+C:\Users\shomy\Code\COGNIZANT\PROJECT\Worde-Console\obj\Debug\net10.0\Worde-Console.csproj.CoreCompileInputs.cache
+C:\Users\shomy\Code\COGNIZANT\PROJECT\Worde-Console\obj\Debug\net10.0\Worde-Console.sourcelink.json
+C:\Users\shomy\Code\COGNIZANT\PROJECT\Worde-Console\obj\Debug\net10.0\Worde-Console.dll
+C:\Users\shomy\Code\COGNIZANT\PROJECT\Worde-Console\obj\Debug\net10.0\refint\Worde-Console.dll
+C:\Users\shomy\Code\COGNIZANT\PROJECT\Worde-Console\obj\Debug\net10.0\Worde-Console.pdb
+C:\Users\shomy\Code\COGNIZANT\PROJECT\Worde-Console\obj\Debug\net10.0\Worde-Console.genruntimeconfig.cache
+C:\Users\shomy\Code\COGNIZANT\PROJECT\Worde-Console\obj\Debug\net10.0\ref\Worde-Console.dll

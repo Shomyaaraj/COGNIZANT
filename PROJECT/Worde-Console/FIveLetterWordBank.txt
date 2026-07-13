@@ -1,0 +1,10 @@
+apple
+grape
+house
+plane
+tiger
+bread
+chair
+zebra
+mouse
+crane
