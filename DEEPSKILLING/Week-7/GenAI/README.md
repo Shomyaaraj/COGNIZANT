@@ -1,1 +1,0 @@
-# Week-7: GenAI (Generative AI)
